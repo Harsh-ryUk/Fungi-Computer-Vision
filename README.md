@@ -1,6 +1,6 @@
 
 
-**Repository:** `YOUR_GITHUB_USERNAME/FungiCLEF25-Automated-Fungal-Species-Recognition`  
+**Repository:** `Harsh-ryUk/Fungi-Computer-Vision`  
 **Competition referenced:** [FungiCLEF25 @ CVPR-FGVC & LifeCLEF](https://www.kaggle.com/competitions/lifeclef-2025-fungiclef)
 
 ---
